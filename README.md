@@ -22,7 +22,6 @@
 
 | <img height="200" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif"  /> | ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=121417300) |
 |---|---|
-| GitHub Profile View Count | Spotify Recently Played |
 
 ###
 
